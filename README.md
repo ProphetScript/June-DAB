@@ -12,6 +12,7 @@ I welcome any constructive criticism regarding my work. I take anything as a lea
 4. Documentation: If you see the need for some additional documentation, feel free to add some!
 
 ## Instructions
-1. Welcomed to Clone/download repository
-2. make any edits you wish
-3. Or leave a message in the inbox with recommended changes
+1. Message me if there are files you are interested in
+2. You are welcomed to Clone/download repository
+3. make any edits you wish
+4. Or leave a message in the inbox with recommended changes
